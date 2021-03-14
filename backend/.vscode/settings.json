@@ -1,0 +1,14 @@
+{
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.validate": [
+        "javascript"
+    ],
+    "prettier.enable": false,
+    "prettier.tabWidth": 1,
+    "prettier.requirePragma": true,
+    "prettier.singleQuote": true,
+    "editor.formatOnSave": true,
+    "yaml.format.printWidth": 100
+}
